@@ -18,7 +18,7 @@ document.getElementById("name").innerHTML = "John Kane";
 
 var cars = ["Saab", "Volvo", "BMW"];
 
-document.getElementById("demo").innerHTML = cars;
+document.getElementById("demo").innerHTML = cars[0];
 
 // example of an object, with the model listed on the page through the script.
 
